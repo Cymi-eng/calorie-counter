@@ -141,8 +141,5 @@ fetchBtn.addEventListener("click", async () => {
     }
 });
 
-/* ==========================
-   Initial Render
-========================== */
 
 renderFoods();
