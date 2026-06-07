@@ -22,7 +22,14 @@ A webpage calorie tracking application that allows users to add, remove, and man
 * DOM Manipulation
 * LocalStorage
 * Fetch API
-
+# Project Structure
+```
+calorie-counter/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
 ## Installation
 
 1. Clone the repository
@@ -89,3 +96,5 @@ This project is licensed under the MIT License.
 ## Author
 
 Ian Cymi
+* GitHub: https://github.com/cymi-eng
+* Email: your-email eaiancymi@gmail.com
